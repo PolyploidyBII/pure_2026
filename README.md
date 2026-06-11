@@ -11,6 +11,8 @@ seo:
 # Polyploidy Undergraduate Research Experience (PURE)
 
 ![logo PI3](slides/logo_pi3.jpg)
+
+
 In this page you will find all the information regarding the Polyploidy Undergraduate Research Experience workshop
 
 - [announcements](announcements.md),
