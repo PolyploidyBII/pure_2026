@@ -13,8 +13,8 @@ timeline:
   - "4:00 PM"
   
 schedule:
-  - name: Monday
-    events:
+- name: Monday
+  events:
       - name: Section
         start: 9:00 AM
         end: 10:00 AM
@@ -39,8 +39,8 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         location: Final comments and questions
-  - name: Tuesday
-      events:
+- name: Tuesday
+  events:
       - name: Section
         start: 9:00 AM
         end: 10:00 AM
@@ -57,8 +57,8 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: Flow Cytometry, microscopy and inducing polyploidy
-  - name: Wednesday
-      events:
+- name: Wednesday
+  events:
       - name: Section
         start: 9:00 AM
         end: 10:00 AM
