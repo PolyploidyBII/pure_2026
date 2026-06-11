@@ -4,7 +4,7 @@ title: Instructors
 description: Instructors and Presenters in PURE 2026
 ---
 
-# Staff
+# Workshop Leaders
 
 ## Instructors
 
