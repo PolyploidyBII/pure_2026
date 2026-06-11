@@ -38,7 +38,7 @@ schedule:
       - name: Section
         start: 3:00 PM
         end: 4:00 PM
-        location: Final comments and questions        
+        location: Final comments and questions
   - name: Tuesday
       events:
       - name: section
