@@ -15,7 +15,7 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: section
+      - name: Section
         start: 9:00 AM
         end: 10:00 AM
         location: Introductions
@@ -41,7 +41,7 @@ schedule:
         location: Final comments and questions
   - name: Tuesday
       events:
-      - name: section
+      - name: Section
         start: 9:00 AM
         end: 10:00 AM
         location: Activity Recap
@@ -59,7 +59,7 @@ schedule:
         location: Flow Cytometry, microscopy and inducing polyploidy
   - name: Wednesday
       events:
-      - name: section
+      - name: Section
         start: 9:00 AM
         end: 10:00 AM
         location: Tean science
