@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Staff
-description: A listing of all the course staff members.
+title: Instructors
+description: Instructors and Presenters in PURE 2026
 ---
 
 # Staff
