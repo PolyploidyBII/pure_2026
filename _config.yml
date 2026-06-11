@@ -18,7 +18,7 @@ tagline: Materials for the 2026 Workshop
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Polyploidy Innovation and Integration Institute
 baseurl: '/pure_2026' # the subpath of your site, e.g. /blog
-url: 'https://www.pi3biology.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://polyploidybii.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
