@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
-description: Listing of course modules and topics.
+title: Activities
+description: Listing of course activities and materials.
 ---
 
-# Calendar
+# Workshop activities
 
 {% for module in site.modules %}
 {{ module }}

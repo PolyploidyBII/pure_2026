@@ -16,7 +16,8 @@ description: Instructors and Presenters in PURE 2026
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+
+## Panelists
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
