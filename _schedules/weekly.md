@@ -19,7 +19,7 @@ schedule:
       - name: Lecture
         start: "12:00 PM"
         end: "1:00 PM"
-        location: Introduction and Background. Doug Soltis and Pamela Solits. University of Flordida
+        location: Introduction and Background. Doug Soltis and Pam Soltis. University of Flordida
       - name: Computer Activity
         start: "1:00 PM"
         end: "2:30 PM"
@@ -27,7 +27,7 @@ schedule:
       - name: Proteomics
         start: "2:30 PM"
         end: "4:00 PM"
-        location: Introduction to Proteomics. Sixue Chen. University of Mississipi 
+        location: Introduction to Proteomics. Sixue Chen. University of University of Mississippi
       - name: Discussion
         start: "4:00 PM"
         end: "5:00 PM"
@@ -36,7 +36,7 @@ schedule:
   events:
       - name: Discussion
         start: "12:00 PM"
-        end: "1:00 PM:
+        end: "1:00 PM"
         location: Recap of Day 1 Activities. 
       - name: Computer Activity
         start: "1:00 PM"
