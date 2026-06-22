@@ -70,6 +70,6 @@ schedule:
         location: Careers Panel
       - name: Discussion
         start: 4:00 PM
-        end: 4:30 PM
+        end: 5:00 PM
         location: Assessment. David Miller (UF)
 ---
