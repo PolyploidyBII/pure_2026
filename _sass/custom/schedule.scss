@@ -93,27 +93,28 @@
     }
 
     &.lecture {
-      background-color: $blue-100;
+      background-color: #c8562d;
     }
 
     &.computer-activity {
-      background-color: $red-100;
+      background-color: #5b8e7d;
     }
 
     &.discussion {
-      background-color: $green-100;
+      background-color: #f4a259;
     }
 
     &.proteomics {
-      background-color: $yellow-100;
+      background-color: #bc4b51;
      }
 
     &.systems {
-      background-color: $orange-100;
+      background-color: #8cb369;
      }
 
     &.applied-science {
-      background-color: $purple-100;
+      background-color: #755c57;
+
      }
   }
 }
