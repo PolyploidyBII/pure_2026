@@ -10,5 +10,6 @@ title: Monday
 Rosana Zenil-Ferguson and Pamela Rueda Cediel. University of Kentucky
   : [Link](#)
 
-: **Introduction to Proteomics** {: .label .label-yellow } Sixue Chen. University of Mississippi
+: **Introduction to Proteomics**{: .label .label-yellow } 
+Sixue Chen. University of Mississippi
   : [Link](https://www.moleculardetective.org/TutorialProteomics/TutorialProteomicsPage1.html)
