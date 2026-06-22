@@ -23,7 +23,7 @@
   .schedule-time {
     @extend .fs-2;
     color: $grey-dk-200;
-    height: 250px;
+    height: 150px;
     margin: 0;
     padding: $sp-2;
     position: relative;
@@ -55,7 +55,7 @@
       border-left: 0;
     }
   }
-
+  
   h2.schedule-header {
     align-items: center;
     display: flex;
@@ -79,7 +79,7 @@
     float: left;
     height: 100%;
     margin: 0;
-    padding: $sp-3;
+    padding: $sp-2;
     position: absolute;
     width: 95%;
 
