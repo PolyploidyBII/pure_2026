@@ -23,7 +23,7 @@
   .schedule-time {
     @extend .fs-2;
     color: $grey-dk-200;
-    height: 40px;
+    height: 80px;
     margin: 0;
     padding: $sp-2;
     position: relative;
@@ -96,12 +96,25 @@
       background-color: $grey-dk-100;
     }
 
-    &.section {
+    &.computer-activity {
       background-color: $purple-100;
     }
 
     &.office-hours {
       background-color: $blue-100;
     }
+    
+    &.systems {
+      background-color: #f4e285;
+     }
+    
+    &.applied-science {
+      background-color: #f4a259;
+     }
+
+    &.discussion {
+      background-color: #755c57;
+     }    
+
   }
 }
