@@ -55,7 +55,7 @@
       border-left: 0;
     }
   }
-  
+
   h2.schedule-header {
     align-items: center;
     display: flex;
@@ -107,19 +107,19 @@
     }
 
     &.proteomics {
-      background-color: $#0A1A1E;
+      background-color: $0A1A1e;
     }
     
     &.systems {
-      background-color: #f4e285;
+      background-color: $f4e285;
      }
     
     &.applied-science {
-      background-color: #230618;
+      background-color: $230618;
      }
 
     &.discussion {
-      background-color: #5f0f40;
+      background-color: $5f0f40;
      }    
 
   }
