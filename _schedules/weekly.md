@@ -19,15 +19,15 @@ schedule:
       - name: Lecture
         start: "12:00 PM"
         end: "1:00 PM"
-        location: Introduction and Background. Doug Soltis and Pam Soltis. University of Flordida
+        location: Introduction and Background. Doug Soltis and Pam Soltis (UF)
       - name: Computer Activity
         start: "1:00 PM"
         end: "2:30 PM"
-        location: Introduction to visualization in RStudio. Rosana Zenil-Ferguson and Pamela Rueda Cediel. University of Kentucky
+        location: Introduction to visualization in RStudio. Rosana Zenil-Ferguson and Pamela Rueda Cediel (UK)
       - name: Proteomics
         start: "2:30 PM"
         end: "4:00 PM"
-        location: Introduction to Proteomics. Sixue Chen. University of University of Mississippi
+        location: Introduction to Proteomics. Sixue Chen (UMiss)
       - name: Discussion
         start: "4:00 PM"
         end: "5:00 PM"
@@ -41,7 +41,7 @@ schedule:
       - name: Computer Activity
         start: "1:00 PM"
         end: "2:30 PM"
-        location: Cyverse Activity. Brad Barbazuk
+        location: Cyverse Activity. Brad Barbazuk (UF)
       - name: Systems
         start: "2:30 PM"
         end: "3:30 PM"
@@ -55,15 +55,15 @@ schedule:
       - name: Applied Science
         start: "12:00 PM"
         end: "1:00 PM"
-        location: Team science. Pam Soltis. University of Florida
+        location: Team science. Pam Soltis (UF)
       - name: Systems
         start: "1:00 PM"
         end: "2:00 PM"
-        location: Cancer.  Rolf Renne. University of Florida
+        location: Cancer.  Rolf Renne (UF)
       - name: Systems
         start: "2:00 PM"
         end: "3:00 PM"
-        location: Agriculture. Patricio Munoz. University of Florida
+        location: Agriculture. Patricio Munoz (UF)
       - name: Discussion
         start: "3:00 PM"
         end: "4:00 PM"
@@ -71,5 +71,5 @@ schedule:
       - name: Discussion
         start: "4:00 PM"
         end: "4:30 PM"
-        location: Assessment. David Miller. University of Florida
+        location: Assessment. David Miller (UF)
 ---
