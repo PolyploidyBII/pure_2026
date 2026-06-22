@@ -79,11 +79,9 @@
     float: left;
     height: 100%;
     margin: 0;
-    padding: $sp-4;
+    padding: $sp-3;
     position: absolute;
     width: 95%;
-
-    overflow: hidden;
 
     .name {
       @extend .fs-3, .fw-700;
