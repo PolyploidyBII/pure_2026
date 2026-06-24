@@ -18,7 +18,12 @@ description: >-
 
 ## Dates
 
-June 29- July 2026. Registration required for Zoom
+June 29- July 1 2026. Registration required.
+
+## Zoom link 
+
+You should be registered to be accepted in the [Zoom meeting](https://ufl.zoom.us/j/95791547457?pwd=Ro8FUZt5npvUkvzbtKnal1nGCPomW1.1)
+
 
 ## General Information
 

@@ -6,10 +6,7 @@ description: The weekly event schedule.
 
 # Schedule
 
-## Schedule at a glance
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
+![Schedule for PURE 2026 workshop](assets/images/pure_schedule)
 
-## Detailed schedule
+
 
