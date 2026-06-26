@@ -41,4 +41,6 @@ PURE participation is open to undergraduates at all levels.
 
 ## Learn More
 
- Visit the PI3 website to learn more about the Polyploidy Integration and Innovation Institute: [PI3](https://www.pi3biology.org) and its [announcement](https://www.floridamuseum.ufl.edu/science/new-grant-awarded-to-study-polyploidy/).
+ Visit the PI3 website to learn more about the Polyploidy Integration and Innovation Institute:
+ 
+  [PI3](https://www.pi3biology.org) and its [announcement](https://www.floridamuseum.ufl.edu/science/new-grant-awarded-to-study-polyploidy/).
