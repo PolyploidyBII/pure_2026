@@ -18,7 +18,7 @@ title: Monday
 
 
 : **Introduction to Proteomics**{: .label .label-yellow } 
-  :  [Slides](https://polyploidybii.github.io/pure_2026/slides/Lecture_2_proteomics.pdf)
+  :
 : Sixue Chen. University of Mississippi
-: **Activity**
-  : [Instructions](../practicals/proteomics) 
+: **Activities and Lecture notes**
+  : [Here](../practicals/proteomics) 

@@ -4,7 +4,13 @@ nav_exclude: true
 math: katex
 ---
 
+## MaxQuant Tutorial
+
+The instructions for using MaxQuant are in this [pdf file](https://polyploidybii.github.io/pure_2026/slides/MaxQuant_tutorial.pdf)
+
 ## Exercise 1
+
+Notes for Lecture 1 can be found [here](https://polyploidybii.github.io/pure_2026/slides/Lecture_1_proteomics.pdf) 
 
 Please download these two files
 
@@ -16,12 +22,14 @@ Instructions on for Exercise 1 are in this [pdf file](https://polyploidybii.gith
 
 ## Exercise 2
 
+Notes for Lecture 1 can be found [here](https://polyploidybii.github.io/pure_2026/slides/Lecture_2_proteomics.pdf) 
+
 Please download these two files
 
 1. File 1: [unknownMSMS1.txt](downloads/unknownMSMS1.txt)
 2. File 2: [unknownMSMS2.txt](downloads/unknownMSMS2.txt)
 
-Instructions on for Exercise 1 are in this [pdf file](https://polyploidybii.github.io/pure_2026/slides/Exercise_2_proteomics.pdf)
+Instructions on for Exercise 2 are in this [pdf file](https://polyploidybii.github.io/pure_2026/slides/Exercise_2_proteomics.pdf)
 
 ## Reach out for questions
 
