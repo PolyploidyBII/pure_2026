@@ -20,5 +20,9 @@ title: Monday
 
 
 : **Introduction to Proteomics**{: .label .label-yellow } 
-  : [Link](https://www.moleculardetective.org/TutorialProteomics/TutorialProteomicsPage1.html)
+  : [Slides](https://polyploidybii.github.io/pure_2026/slides/Lecture_2_proteomics.pdf)
+
 : Sixue Chen. University of Mississippi
+
+: ** Activity**
+  : [Instructions](../practicals/proteomics) 
