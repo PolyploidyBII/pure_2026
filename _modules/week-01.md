@@ -7,8 +7,7 @@ title: Monday
   : [Slides](#)
 : Doug Soltis and Pam Soltis. University of Florida
 
-:
-  
+ 
 : **Introduction to data Visualization**{: .label .label-purple }
   : [Slides](https://polyploidybii.github.io/pure_2026/slides/intro_visualization_stats.pdf)
 : Rosana Zenil-Ferguson and Pamela Rueda Cediel. University of Kentucky  
@@ -16,11 +15,10 @@ title: Monday
   : [Setting up](../practicals/set_up)   
 : **Activity notes**           
   : [Link](https://polyploidybii.github.io/pure_2026/practicals/intro_visualization.html)
-  
-:
+
 
 : **Introduction to Proteomics**{: .label .label-yellow } 
-  : [Slides](https://polyploidybii.github.io/pure_2026/slides/Lecture_2_proteomics.pdf)
+  :  [Slides](https://polyploidybii.github.io/pure_2026/slides/Lecture_2_proteomics.pdf)
 : Sixue Chen. University of Mississippi
 : **Activity**
   : [Instructions](../practicals/proteomics) 
