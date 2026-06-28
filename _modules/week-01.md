@@ -8,8 +8,10 @@ title: Monday
 : Doug Soltis and Pam Soltis. University of Florida
   
 : **Introduction to data Visualization**{: .label .label-purple }
+  :[Slides](https://polyploidybii.github.io/pure_2026/slides/intro_visualization_stats.pdf)
+: **RStudio**  
   : [Setting up](../practicals/set_up) 
-: Activity           
+: **Activity notes**           
   : [Link](https://polyploidybii.github.io/pure_2026/practicals/intro_visualization.html)
 : Rosana Zenil-Ferguson and Pamela Rueda Cediel. University of Kentucky
 
