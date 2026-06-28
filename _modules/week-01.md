@@ -8,7 +8,7 @@ title: Monday
 : Doug Soltis and Pam Soltis. University of Florida
   
 : **Introduction to data Visualization**{: .label .label-purple } 
-  : [Link](/assets/content/intro_visualization.html)
+  : [Link](https://polyploidybii.github.io/practicals/intro_visualization.html)
 : Rosana Zenil-Ferguson and Pamela Rueda Cediel. University of Kentucky
 
 : **Introduction to Proteomics**{: .label .label-yellow } 
