@@ -22,7 +22,7 @@ Instructions on for Exercise 1 are in this [pdf file](https://polyploidybii.gith
 
 ## Exercise 2
 
-Notes for Lecture 1 can be found [here](https://polyploidybii.github.io/pure_2026/slides/Lecture_2_proteomics.pdf) 
+Notes for Lecture 2 can be found [here](https://polyploidybii.github.io/pure_2026/slides/Lecture_2_proteomics.pdf) 
 
 Please download these two files
 
