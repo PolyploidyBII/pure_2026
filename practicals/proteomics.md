@@ -10,7 +10,11 @@ The instructions for using MaxQuant are in this [pdf file](https://polyploidybii
 
 ## Exercise 1
 
-Download the software using this [link](https://www.moleculardetective.org/FPLibrary/moverz/program/moverz.exe)
+1. For Mac computers ONLY download first [wine](https://www.winehq.org/?__cf_chl_f_tk=28kRyXx7zCdxegjwvUhZKij8AVvPSHhM_bCyy1McS54-1782763031-1.0.1.1-v82ERZEJUvmTKQhcED34TFKTFk_tL7NYlxErfIu243s) that allows you to run .exe applications
+
+2. For ALL computers download the software using this [link](https://www.moleculardetective.org/FPLibrary/moverz/program/moverz.exe)
+
+3. For Mac use wine to run the .exe file, for Windows simply double click the .exe
 
 Notes for Lecture 1 can be found [here](https://polyploidybii.github.io/pure_2026/slides/Lecture_1_proteomics.pdf) 
 
