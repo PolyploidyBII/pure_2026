@@ -6,6 +6,8 @@ math: katex
 
 ## MaxQuant Tutorial
 
+Download the software using this [link](https://www.moleculardetective.org/FPLibrary/moverz/program/moverz.exe)
+
 The instructions for using MaxQuant are in this [pdf file](https://polyploidybii.github.io/pure_2026/slides/MaxQuant_tutorial.pdf)
 
 ## Exercise 1
