@@ -10,7 +10,7 @@ You received an email with a link to join posit.cloud to be able to do all the t
 
 ## Posit Cloud Expiration (July 20th, 2026)
 
-Your access to posit.cloud is sponsored by the Polyploidy Integration and Innovation Institute [PI2](https://www.pi3biology.org/). Because this is a limited time workshop, the institute maintains your membership to posit.cloud only for a single month after the workshop is finalized. The reason why we set it up this way in the workshop is that we are able to access your code and fix it as we are teaching you in the workshop. Below they are other options to continue but just remember we won't be able to see what you do in your computer after July 20th, 2026. 
+Your access to posit.cloud is sponsored by the Polyploidy Integration and Innovation Institute [PI2](https://www.pi3biology.org/). Because this is a limited time workshop, the institute maintains your membership to posit.cloud only for a single month after the workshop is finalized. The reason why we set it up this way is because we are able to access your code and fix it as we are teaching you during the workshop. Below are other options to continue but just remember we won't be able to see what you do in your computer after July 20th, 2026. 
 
 ## Free options to continue your learning
 
