@@ -4,9 +4,10 @@ title: Monday
 
 06/29/2026
 : **Introduction**{: .label .label-blue } 
+: Pam Soltis. University of Florida
+  : [Slides](https://polyploidybii.github.io/pure_2026/slides/Welcome_Overview_PI3_PSoltis.pdf)
+: Doug Soltis. University of Florida
   : [Slides](#)
-: Doug Soltis and Pam Soltis. University of Florida
-
  
 : **Introduction to data Visualization**{: .label .label-purple }
   : [Slides](https://polyploidybii.github.io/pure_2026/slides/intro_visualization_stats.pdf)
