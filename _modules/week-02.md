@@ -3,7 +3,7 @@ title: Tuesday
 ---
 
 06/30/2026
-: **Continuation of Visuzlization and Statistics**{: .label .label-purple }
+: **Continuation of Visualization and Statistics**{: .label .label-purple }
   : [Slides](https://polyploidybii.github.io/pure_2026/slides/intro_visualization_stats.pdf)
 : Rosana Zenil-Ferguson and Pamela Rueda Cediel. University of Kentucky  
 : **RStudio**  
@@ -26,7 +26,7 @@ title: Tuesday
 :  [Yeast by Ana Selmecki](http://www.selmeckilab.com/)
   
   
-: **Introduction to Experimental methods**{: .label .label-green }
+: **Introduction to Experimental methods**{: .label .label-orange }
 : Colchicine
 : Mating Manipulation
 : Cell Measurements: Flow Cytometry
